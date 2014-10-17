@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pta:home|Door43 (pta)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pta|d43-pta repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pta/archive/master.zip|d43-pta.zip]]
+
+**Recent Changes**
+{{changes>ns = pta}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pta|Ethnologue data]]
+
